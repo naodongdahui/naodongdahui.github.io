@@ -1,32 +1,44 @@
----
-layout: page
----
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in site.pages %}
-    {% unless page.sitemap.exclude %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
-        <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-        <priority>{{ page.sitemap.priority }}</priority>
-      </url>
-    {% endunless %}
-  {% endfor %}
-  {% for post in site.posts %}
-    <url>
-      <loc>{{ site.url }}{{ post.url | xml_escape }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  {% endfor %}
-  {% for item in site.data.sitemap %}
-    <url>
-      <loc>{{ site.url }}{{ item.url | xml_escape }}</loc>
-      <changefreq>{{ item.changefreq }}</changefreq>
-      <priority>{{ item.priority }}</priority>
-    </url>
-  {% endfor %}
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>http://naodongdahui.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-11-11</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>http://naodongdahui.github.io/naodong</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-11-11</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>http://naodongdahui.github.io/wuxing</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-11-11</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>http://naodongdahui.github.io/LICENSE.md</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-11-11</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>http://naodongdahui.github.io</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-11-11</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
 </urlset>
