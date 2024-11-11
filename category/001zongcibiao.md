@@ -1,8 +1,9 @@
 ---
-layout: category
+layout: page
 title: 词表总览
 category: zonglan
 permalink: /zonglan/
+sidebar_link: true
 order: 1
 ---
 
