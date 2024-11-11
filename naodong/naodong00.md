@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "第零届：脑洞隽永谣——民族的未雨绸缪"
-permalink: /naodong/00/
+permalink: /naodong/0/
 category: naodong
 date: 2014-08-15
 tags:
@@ -29,7 +29,7 @@ tags:
 
 > 共使用 325 道题目。
 
-> 仅词表见[脑洞协会词表总览：第零届脑洞大会](https://naodongdahui.github.io/zonglan/#脑洞00)。
+> 仅词表见[脑洞协会词表总览：第零届脑洞大会](https://naodongdahui.github.io/zonglan/#脑洞0)。
 
 ### 复赛第一场
 
