@@ -26,3 +26,7 @@ permalink: /naodong/
 
 在[这个网站](https://www.hanyuguoxue.com/)查询标准的Unicode统一码(如U+29D3B), 然后输出为&#x29D3B;即可. 
 
+## 历届比赛词表
+
+[第三十届汉字脑洞大会：脑洞掞玉章——十年之后](/naodong/30/)
+
