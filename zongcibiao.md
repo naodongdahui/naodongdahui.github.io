@@ -3,6 +3,7 @@ layout: category
 title: 词表总览
 category: zonglan
 permalink: /zonglan/
+order: 1
 ---
 
 这是汉字脑洞协会的词表总览，我们在此汇总了脑洞协会中比赛的历届词表。
