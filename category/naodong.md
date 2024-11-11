@@ -2,6 +2,7 @@
 layout: post
 title: 脑洞
 category: naodong
+permalink: /naodong/
 ---
 
 脑洞大会的主页.
