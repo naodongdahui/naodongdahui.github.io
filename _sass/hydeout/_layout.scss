@@ -37,7 +37,10 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: 'Abril Fatface', serif;
+    font-family: font-family: Georgia, "Times New Roman", 
+          "Microsoft YaHei", "微软雅黑", 
+          STXihei, "华文细黑", 
+          serif;
     font-size: $large-font-size;
     font-weight: normal;
     margin-bottom: $heading-spacing;
@@ -110,7 +113,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 3.25rem;
+    font-size: 3rem;
   }
 
   // Show secondary nav content + lead
@@ -181,7 +184,7 @@ body {
     }
 
     .site-title {
-      font-size: 3.25rem;
+      font-size: 3rem;
       .back-arrow { display: none; }
     }
 
