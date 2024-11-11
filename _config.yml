@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            汉字脑洞大会
+title:            脑洞协会
 tagline:          '首页'
-description:      '汉字听写文化交流的核心场所'
+description:      '汉字听写文化交流'
 url:              "https://naodongdahui.github.io/"
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
