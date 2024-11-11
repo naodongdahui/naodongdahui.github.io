@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: 关于我们
 sidebar_link: true
+permalink: /
 ---
 
 <p class="message">
