@@ -5,11 +5,13 @@ sidebar_link: true
 permalink: /
 ---
 
+
+
+## 关乎我们
+
 <p class="message">
   欢迎你的加入
 </p>
-
-## 关乎我们
 
 ### 其他
 
