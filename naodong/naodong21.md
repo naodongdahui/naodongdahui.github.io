@@ -35,6 +35,8 @@ tags:
 
 > 共使用 327 道题目。
 
+> 仅词表见[脑洞协会词表总览：第二十一届脑洞大会](https://naodongdahui.github.io/zonglan/#脑洞21)。
+
 ### 复赛第一场
 
 <details>
