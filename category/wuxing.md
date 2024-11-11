@@ -2,6 +2,7 @@
 layout: post
 title: 五行
 category: wuxing
+permalink: /wuxing/
 ---
 
-脑洞大会的主页.
+五行法会的主页.
