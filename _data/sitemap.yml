@@ -1,0 +1,8 @@
+# _data/sitemap.yml
+- url: /
+  changefreq: daily
+  priority: 1.0
+- url: /about/
+  changefreq: monthly
+  priority: 0.8
+# 添加更多页面或集合的配置
