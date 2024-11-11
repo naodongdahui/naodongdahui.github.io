@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+    {% unless page.sitemap.exclude %}
+      <url>
+        <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
+        <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+        <priority>{{ page.sitemap.priority }}</priority>
+      </url>
+    {% endunless %}
+  {% endfor %}
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url | xml_escape }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  {% endfor %}
+  {% for item in site.data.sitemap %}
+    <url>
+      <loc>{{ site.url }}{{ item.url | xml_escape }}</loc>
+      <changefreq>{{ item.changefreq }}</changefreq>
+      <priority>{{ item.priority }}</priority>
+    </url>
+  {% endfor %}
+</urlset>
