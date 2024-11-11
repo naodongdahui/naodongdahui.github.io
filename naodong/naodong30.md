@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "脑洞掞玉章——十年之后"
-permalink: /naodong/30
+permalink: /naodong/30/
 category: naodong
 date: 2023-09-01
 tags:
