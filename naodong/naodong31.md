@@ -34,7 +34,7 @@ tags:
 
 > 共使用 331 道题目。
 
-> 仅词表见[脑洞协会词表总览：第三十一届脑洞大会](https://naodongdahui.github.io/zonglan/#第三十一届)。
+> 仅词表见[脑洞协会词表总览：第三十一届脑洞大会](https://naodongdahui.github.io/zonglan/#脑洞31)。
 
 ### 复赛第一场
 
