@@ -11,11 +11,11 @@ order: 1
 
 本网址仅供仅供搜索用，请谨慎利用。站内搜索若想查阅词语的具体解释，请在主页链接中查找。
 
-- [中国汉字听写大会](https://naodongdahuigithubio/zonglan/#中国汉字听写大会)
-- [脑洞大会](https://naodongdahuigithubio/zonglan/#脑洞大会)
-- [螈汁杯](https://naodongdahuigithubio/zonglan/#螈汁杯)
-- [五行法会](https://naodongdahuigithubio/zonglan/#五行法会)
-- [拼释会](https://naodongdahuigithubio/zonglan/#拼释会)
+- [中国汉字听写大会](#中国汉字听写大会)
+- [脑洞大会](#脑洞大会)
+- [螈汁杯](#螈汁杯)
+- [五行法会](#五行法会)
+- [拼释会](#拼释会)
 
 
 # [中国汉字听写大会](/hanting/)
