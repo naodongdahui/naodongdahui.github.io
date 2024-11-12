@@ -1,33 +1,20 @@
 ---
 layout: category
-title: 脑洞
+title: 脑洞大会
 category: naodong
 permalink: /naodong/
 order: 2
 ---
 
-脑洞大会的主页.
+脑洞大会的主页。
 
-点击[这里](#历届比赛词表)跳转历届比赛词表.
+点击[这里](#历届比赛词表)跳转历届比赛词表。
+
+在[这里](/zonglan/)跳转词表总览。
 
 ## 介绍
 
-介绍:
-
-### 会有
-
-#### 词表
-
-
-## 测试
-
-
-
-部分扩b及以上test:
-
-在[这个网站](https://www.kangxizidian.cn/)或其他相关网站查询标准的Unicode统一码(如U 29D3B), 然后输出为&#x29D3B; <code>&#x29D3B</code>即可. 
-
-
+介绍：
 
 ## 历届比赛词表
 
